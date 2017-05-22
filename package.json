@@ -1,0 +1,10 @@
+{
+  "name": "greed-starter",
+  "version": "1.0.0",
+  "author": "Dan Andersson <dan.andersson@chimpiq.com> (https://chimpiq.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.4.1"
+  }
+}
