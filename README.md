@@ -1,6 +1,12 @@
 # Greed Starter
-Starter project for Greed kata: https://github.com/ardalis/kata-catalog
+Starter project for [Greed kata](https://github.com/ardalis/kata-catalog/blob/master/katas/Greed.md)
 
+## Prerequisites
+- [Node](https://nodejs.org/en/download/)
+
+## Optional
+- [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+- [VSCode](https://code.visualstudio.com/)
 ## Setup
 Run `yarn install` or `npm install` in the terminal to install the dependencies
 
